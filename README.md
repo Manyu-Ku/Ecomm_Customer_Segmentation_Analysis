@@ -165,7 +165,7 @@ The following outline highlights the essential steps of the analysis. Please not
   ```
   <img width="740" alt="monthly" src="https://github.com/Manyu-Ku/8_Week_SQL_Challenge/assets/122411152/5227cde7-ffe9-490e-b9a2-90b8f27b6bbc">
 
-> **:pushpin:
+> **:point_right:
 > In February, all key metrics including traffic, sales, and conversion rate declined compared to the previous month. These metrics have shown no significant increases over the past five months, except for a seasonal peak in November. This serves as a warning signal.**
 
 - find out the peak time of the traffic
