@@ -25,3 +25,38 @@ The analysis in this report was conducted using Jupyter Notebook and implemented
 - Techniques/Models applied: `Exploratory Data Analysis`, `KMeans Clustering`, `RFM Model`, `Data Visualization`
 
 ## Data Preprocessing
+- Import libraries<details>
+  <summary>Click to see code</summary>
+  
+  ```py
+  import pandas as pd
+  import numpy as np
+  import matplotlib.pyplot as plt
+  from mpl_toolkits.mplot3d import Axes3D
+  import seaborn as sns
+  from sklearn.cluster import KMeans
+  from sklearn.preprocessing import StandardScaler
+  ```
+</details>
+
+- Read and concatenate datasets of 5 months<details>
+  <summary>Click to see code</summary>
+  
+  ```py
+  df1=pd.read_csv('dataset/archive/2019-Oct.csv')
+  df2=pd.read_csv('dataset/archive/2019-Nov.csv')
+  df3=pd.read_csv('dataset/archive/2019-Dec.csv')
+  df4=pd.read_csv('dataset/archive/2020-Jan.csv')
+  df5=pd.read_csv('dataset/archive/2020-Feb.csv')
+  df=pd.concat([df1,df2,df3,df4,df5], axis=0, ignore_index=True)
+  ```
+</details>
+
+- View the first 5 & the last 5 rows of the dataset<details>
+  <summary>Click to see code</summary>
+  
+  ```py
+  df.head()
+  df.tail()
+  ```
+</details>
