@@ -1,7 +1,11 @@
 # Ecommerce Customer Segmentation Analysis
 
-> ### Data Source: 
-> [kaggle_datasets](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop?datasetId=426888&sortBy=voteCount)
+<img src="https://github.com/Manyu-Ku/8_Week_SQL_Challenge/assets/122411152/9e26e724-a0cc-4ba6-a4a0-eb0b45332f91" width="500">
+
+credit: <a href="http://www.freepik.com">Designed by sentavio / Freepik</a>
+
+
+> Data Source: [kaggle_datasets](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop?datasetId=426888&sortBy=voteCount)
 >
 > The provided dataset encompasses behavior data spanning five months (Oct 2019 - Feb 2020) from a medium-sized cosmetics online store. 
 
