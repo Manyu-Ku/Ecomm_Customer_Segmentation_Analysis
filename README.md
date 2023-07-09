@@ -132,6 +132,15 @@ The following outline provides a concise summary of the analysis, highlighting t
 
   <img width="736" alt="potential" src="https://github.com/Manyu-Ku/8_Week_SQL_Challenge/assets/122411152/e38fcd73-840b-4e2a-8519-a81b8657cadf">
 
+### 4-6 Insights
+1. Dormant customers represent approximately one-third of the total customer base. Upon analyzing the sample records and observing a mean frequency of 1.06, it is evident that most dormant customers are one-time purchasers. This highlights a significant challenge for the business in terms of customer retention.
+
+2. Loyal customers exhibit a high purchase frequency and generate substantial sales, making them a valuable segment for any business. However, it is noteworthy that their cart abandonment rate is the highest among all clusters. This could be attributed to a higher number of products being added to the cart compared to other clusters.
+
+3. New customers account for nearly half of all customers, which is a positive sign if the business is performing well. However, based on the observed traffic and sales trends, it is evident that the business struggles to retain a significant portion of new customers.
+
+4. Potential high-value customers represent another profitable and stable cluster that requires attention. They exhibit the lowest cart abandonment rate and the highest average order values. It is essential to monitor the frequency of this cluster over a longer period to determine whether their shopping habits remain consistent or if their interest starts to decline.
+
 ## 5. Recommendations
 
 ## 6. References
