@@ -131,3 +131,18 @@ The following outline provides a concise summary of the analysis, highlighting t
   <img width="748" alt="dormant" src="https://github.com/Manyu-Ku/8_Week_SQL_Challenge/assets/122411152/98d4154d-6653-4952-80fd-73cb9358cd16">
 
   <img width="736" alt="potential" src="https://github.com/Manyu-Ku/8_Week_SQL_Challenge/assets/122411152/e38fcd73-840b-4e2a-8519-a81b8657cadf">
+
+## 5. Recommendations
+
+## 6. References
+17 eCommerce metrics that you should be tracking. (2022, August 9). Wix ECommerce Blog[^2]
+
+RFM Segmentation | RFM Analysis, Model, Marketing & Software. (n.d.). Optimove[^3]
+
+Jianlizhou. (2020, December 6). Customer segmentation by RFM model and K-means. Kaggle[^4]
+
+[^2]: 17 eCommerce metrics that you should be tracking. (2022, August 9). Wix ECommerce Blog. https://www.wix.com/blog/ecommerce/2022/08/ecommerce-metrics?utm_source=google&utm_medium=cpc&utm_campaign=19554094039
+
+[^3]: RFM Segmentation | RFM Analysis, Model, Marketing & Software. (n.d.). Optimove. https://www.optimove.com/resources/learning-center/rfm-segmentation
+
+[^4]: Jianlizhou. (2020, December 6). Customer segmentation by RFM model and K-means. Kaggle. https://www.kaggle.com/code/jianlizhou/customer-segmentation-by-rfm-model-and-k-means 
