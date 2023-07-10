@@ -8,6 +8,20 @@ credit: <a href="http://www.freepik.com">Designed by sentavio / Freepik</a>
 >
 > The provided dataset encompasses behavior data spanning five months (Oct 2019 - Feb 2020) from a medium-sized cosmetics online store. 
 
+## Table of Contents
+- [1. Business Problem](#1-business-problem)
+- [2. Objectives](#2-objectives)
+- [3. Methodology](#3-methodology)
+- [4. Data Analysis](#4-data-analysis)
+  - [4-1 Data Preprocessing](#4-1-data-preprocessing)
+  - [4-2 E-commerce Performence Exploration](#4-2-e-commerce-performence-exploration)
+  - [4-3 RFM Calculation](#4-3-rfm-calculation)
+  - [4-4 KMeans Clustering using RFM](#4-4-kmeans-clustering-using-rfm)
+  - [4-5 Random Sampling and Pattern Observation for Clustering Validation](#4-5-random-sampling-and-pattern-observation-for-clustering-validation)
+  - [4-6 Insights](#4-6-insights)
+- [5. Recommendations](#5-recommendations)
+- [6. References](#6-references)
+
 ## 1. Business Problem:
 The business is facing a significant challenge in driving sales growth and improving the conversion rate. To address this pain point, the objective is to build personalized marketing campaigns based on different types of customers, determined by their behaviors. By segmenting customers and understanding their unique characteristics, targeted strategies can be implemented to enhance sales performance and increase the conversion rate.
 
@@ -24,7 +38,7 @@ The analysis in this report was conducted using Jupyter Notebook and implemented
 - Techniques/Models applied: `Exploratory Data Analysis`, `KMeans Clustering`, `RFM Model`, `Data Visualization`
 
 ## 4. Data Analysis
-The following outline provides a concise summary of the analysis, highlighting the essential steps and key findings. To view the complete code, please click [here]().
+The following outline provides a concise summary of the analysis, highlighting the essential steps and key findings. To view the complete code, please click [here for ipynb file]().
 
 ### 4-1 Data Preprocessing
 - Import libraries
@@ -142,6 +156,15 @@ The following outline provides a concise summary of the analysis, highlighting t
 4. Potential high-value customers represent another profitable and stable cluster that requires attention. They exhibit the lowest cart abandonment rate and the highest average order values. It is essential to monitor the frequency of this cluster over a longer period to determine whether their shopping habits remain consistent or if their interest starts to decline.
 
 ## 5. Recommendations
+Based on the insights, here are some tailored recommendations:
+
+1. Conduct a customer survey: It is recommended to conduct a customer survey targeting dormant customers. Offer incentives such as free samples or discounts to encourage their participation. Through the survey, gather insights into their reasons for not shopping with the business anymore. This information can help identify areas of improvement and develop targeted strategies to win back their engagement.
+
+2. Re-engage new customers: Send limited-time discount offers or exclusive promotions to new customers who have been inactive for a certain period, such as 20 days. By providing enticing incentives, the business can encourage these customers to make repeat purchases and increase their level of engagement.
+
+3. Nurture potential high-value customers: Pay special attention to potential high-value customers who show promising purchase behavior. Implement personalized marketing strategies, such as tailored product recommendations or exclusive perks, to maintain their interest and loyalty. Monitor their shopping habits over time to ensure they remain engaged and satisfied with their experience.
+
+By implementing these recommendations, the business can actively address customer retention issues, re-engage dormant customers, cultivate loyalty among new customers, and maximize the potential of high-value customers.
 
 ## 6. References
 17 eCommerce metrics that you should be tracking. (2022, August 9). Wix ECommerce Blog[^2]
