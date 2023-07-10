@@ -15,7 +15,7 @@ credit: <a href="http://www.freepik.com">Designed by sentavio / Freepik</a>
 - [4. Data Analysis](#4-data-analysis)
   - [4-1 Data Preprocessing](#4-1-data-preprocessing)
   - [4-2 E-commerce Performence Exploration](#4-2-e-commerce-performence-exploration)
-  - [4-3 RFM Calculation](#4-3-rfm-calculation)
+  - [4-3 RFM Calculation](#4-3-rfm-calculation-1)
   - [4-4 KMeans Clustering using RFM](#4-4-kmeans-clustering-using-rfm)
   - [4-5 Random Sampling and Pattern Observation for Clustering Validation](#4-5-random-sampling-and-pattern-observation-for-clustering-validation)
   - [4-6 Insights](#4-6-insights)
