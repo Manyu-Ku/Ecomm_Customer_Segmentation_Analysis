@@ -1,8 +1,8 @@
 # Ecommerce Customer Segmentation Analysis
 
-<img src="https://github.com/Manyu-Ku/8_Week_SQL_Challenge/assets/122411152/9e26e724-a0cc-4ba6-a4a0-eb0b45332f91" width="500">
+![ec](https://github.com/Manyu-Ku/Ecomm_Customer_Segmentation_Analysis/assets/122411152/3fad0697-4f6d-4ed3-839e-1f74101072eb)
 
-credit: <a href="http://www.freepik.com">Designed by sentavio / Freepik</a>
+Photo by <a href="https://unsplash.com/@olloweb?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Agence Olloweb</a> on <a href="https://unsplash.com/photos/qfp4-Ud6Fyg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 > Data Source: [kaggle_datasets](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop?datasetId=426888&sortBy=voteCount)
 >
