@@ -38,7 +38,7 @@ The analysis in this report was conducted using Jupyter Notebook and implemented
 - Techniques/Models applied: `Exploratory Data Analysis`, `KMeans Clustering`, `RFM Model`, `Data Visualization`
 
 ## 4. Data Analysis
-The following outline provides a concise summary of the analysis, highlighting the essential steps and key findings. To view the complete code, please click [here for ipynb file]().
+The following outline provides a concise summary of the analysis, highlighting the essential steps and key findings. To view the complete code, please click [here for ipynb file](https://github.com/Manyu-Ku/Ecomm_Customer_Segmentation_Analysis/blob/main/RFM%20Segmentation.ipynb).
 
 ### 4-1 Data Preprocessing
 - Import libraries
